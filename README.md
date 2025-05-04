@@ -1,5 +1,5 @@
 # Hangman
-### The player is given seven chances to guess the letters of a random word. With each wrong, an important Web language is taken away from him until after all seven guesses, he is only left with PHP for the rest of his life.   
+### The player is given seven chances to guess the letters of a random word. With each wrong guess, an important Web language is taken away from him until after all seven guesses, he is only left with PHP for the rest of his life.   
 
 ## Tech Stack
 #### - HTML + Tailwind CSS + React
