@@ -1,12 +1,8 @@
-# React + Vite
+# Hangman
+### The player is given seven chances to guess the letters of a random word. With each wrong, an important Web language is taken away from him until after all seven guesses, he is only left with PHP for the rest of his life.   
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Stack
+#### - HTML + Tailwind CSS + React
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Additional info
+#### - This is my second frontend project using React, where I applied the basics of components, props, state, side effects, conditional rendering, event handling, etc. while building a fully functional and interactive game.
